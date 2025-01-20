@@ -1,0 +1,10 @@
+C:\Users\ZEN-707\Desktop\C_Sharp__Labirint\Game_labyrinth_DFS_algorithm\bin\Release\Game_labyrinth.exe.config
+C:\Users\ZEN-707\Desktop\C_Sharp__Labirint\Game_labyrinth_DFS_algorithm\bin\Release\Game_labyrinth.exe
+C:\Users\ZEN-707\Desktop\C_Sharp__Labirint\Game_labyrinth_DFS_algorithm\bin\Release\Game_labyrinth.pdb
+C:\Users\ZEN-707\Desktop\C_Sharp__Labirint\Game_labyrinth_DFS_algorithm\obj\Release\Game_labyrinth.csproj.AssemblyReference.cache
+C:\Users\ZEN-707\Desktop\C_Sharp__Labirint\Game_labyrinth_DFS_algorithm\obj\Release\Game_labyrinth.Form_Maze_Game.resources
+C:\Users\ZEN-707\Desktop\C_Sharp__Labirint\Game_labyrinth_DFS_algorithm\obj\Release\Game_labyrinth.Properties.Resources.resources
+C:\Users\ZEN-707\Desktop\C_Sharp__Labirint\Game_labyrinth_DFS_algorithm\obj\Release\Game_labyrinth.csproj.GenerateResource.cache
+C:\Users\ZEN-707\Desktop\C_Sharp__Labirint\Game_labyrinth_DFS_algorithm\obj\Release\Game_labyrinth.csproj.CoreCompileInputs.cache
+C:\Users\ZEN-707\Desktop\C_Sharp__Labirint\Game_labyrinth_DFS_algorithm\obj\Release\Game_labyrinth.exe
+C:\Users\ZEN-707\Desktop\C_Sharp__Labirint\Game_labyrinth_DFS_algorithm\obj\Release\Game_labyrinth.pdb
